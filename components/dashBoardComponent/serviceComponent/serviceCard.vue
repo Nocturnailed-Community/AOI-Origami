@@ -105,7 +105,7 @@
             >
               <div class="service-content-inner">
                 <div class="p-4">
-                  <<img src="/assets/img/Artboard 1.png" style="width: 70%; height: 70%;" alt="">
+                  <img src="/assets/img/Artboard 1.png" style="width: 70%; height: 70%;" alt="">
                 </div>
                 <a href="#" class="h4">Mental Health</a>
                 <p class="my-3">
