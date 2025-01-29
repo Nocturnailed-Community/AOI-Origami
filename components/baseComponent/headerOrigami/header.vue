@@ -22,26 +22,23 @@
           <small class="me-3"
             ><i class="fas fa-map-marker-alt me-2 text-secondary"></i>
             <a href="#" class="text-white"
-              >Cikalong Wetan, Bandung Barat</a
+              >Indonesia</a
             ></small
           >
           <small class="me-3"
             ><i class="fas fa-envelope me-2 text-secondary"></i
-            ><a href="#" class="text-white">ipanmilalsalawasna13@gmail.com</a></small
+            ><a href="#" class="text-white">asosiasiorigamiindonesia@gmail.com</a></small
           >
         </div>
         <div class="top-link pe-2">
-          <a href="" class="btn btn-light btn-sm-square rounded-circle"
+          <a href="https://web.facebook.com/asosiasi.origami.indonesia/" class="btn btn-light btn-sm-square rounded-circle"
             ><i class="bi bi-facebook text-secondary"></i
           ></a>
-          <a href="" class="btn btn-light btn-sm-square rounded-circle"
-            ><i class="bi bi-twitter text-secondary"></i
-          ></a>
-          <a href="" class="btn btn-light btn-sm-square rounded-circle"
+          <a href="https://www.instagram.com/asosiasiorigamiindonesia/" class="btn btn-light btn-sm-square rounded-circle"
             ><i class="bi bi-instagram text-secondary"></i
           ></a>
-          <a href="" class="btn btn-light btn-sm-square rounded-circle me-0"
-            ><i class="bi bi-linkedin text-secondary"></i
+          <a href="https://www.youtube.com/@asosiasiorigamiindonesia1251" class="btn btn-light btn-sm-square rounded-circle me-0"
+            ><i class="bi bi-youtube text-secondary"></i
           ></a>
         </div>
       </div>
@@ -49,9 +46,16 @@
     <div class="container px-0">
       <nav class="navbar navbar-light navbar-expand-xl py-3">
         <a href="index.html" class="navbar-brand"
-          ><h1 class="text-primary display-6">
+          >
+          <img 
+    src="/assets/img/asosiasi-origami-indonesia.png"
+    width="100" 
+    class="img-fluid" 
+    alt="Asosiasi Origami Indonesia">
+          <!-- <h1 class="text-primary display-6">
             Ori<span class="text-secondary">gami</span>
-          </h1></a
+          </h1> -->
+          </a
         >
         <button
           class="navbar-toggler py-2 px-3"

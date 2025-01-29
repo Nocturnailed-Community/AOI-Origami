@@ -7,10 +7,15 @@
       <div class="row g-5">
         <div class="col-md-6 col-lg-4 col-xl-3">
           <div class="footer-item">
-            <h2 class="fw-bold mb-3">
+            <img 
+    src="/assets/img/asosiasi-origami-indonesia.png"
+    width="100" 
+    class="img-fluid" 
+    alt="Asosiasi Origami Indonesia">
+            <!-- <h2 class="fw-bold mb-3">
               <span class="text-primary mb-0">Ori</span
               ><span class="text-secondary">gami</span>
-            </h2>
+            </h2> -->
             <p class="mb-4">
               There cursus massa at urnaaculis estieSed aliquamellus vitae ultrs
               condmentum leo massamollis its estiegittis miristum.
@@ -188,7 +193,7 @@
         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
           <span class="text-light"
             ><a href="#"
-              ><i class="fas fa-copyright text-light me-2"></i>Your Site Name</a
+              ><i class="fas fa-copyright text-light me-2"></i>Asosiasi Origami Indonesia</a
             >, All right reserved.</span
           >
         </div>
@@ -197,9 +202,7 @@
           <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
           <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
           Designed By
-          <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-          Distributed By
-          <a clas="border-bottom" href="https://themewagon.com">ThemeWagon</a>
+          <a class="border-bottom" href="https://nocturnailed.com">Nocturnailed</a>
         </div>
       </div>
     </div>

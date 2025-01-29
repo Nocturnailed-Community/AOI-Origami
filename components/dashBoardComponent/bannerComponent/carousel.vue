@@ -6,7 +6,7 @@
     <div class="container py-5">
       <div class="row g-5">
         <div class="col-lg-7 col-md-12">
-          <h1 class="mb-3 text-primary">Rumah Origami</h1>
+          <h1 class="mb-3 text-primary">Asosiasi Origami Indonesia</h1>
           <h1 class="mb-5 display-1 text-white">
             The Best Play Area For Your Anywhere
           </h1>
